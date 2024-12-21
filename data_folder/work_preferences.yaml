@@ -6,7 +6,7 @@ experience_level:
   internship: false
   entry: true
   associate: true
-  mid_senior_level: true
+  mid_senior_level: false
   director: false
   executive: false
 
@@ -14,34 +14,77 @@ job_types:
   full_time: true
   contract: false
   part_time: false
-  temporary: true
+  temporary: false
   internship: false
   other: false
-  volunteer: true
+  volunteer: false
 
 date:
   all_time: false
-  month: false
+  month: true
   week: false
-  24_hours: true
+  24_hours: false
 
 positions:
   - Software engineer
+  - Software developer
+  - Data engineer
+  - Developer
+  - Machine learning engineer
 
 locations:
-  - Germany
+  - New York
+  - San Francisco
+  - San Jose
+  - Toronto
+  - Ottawa
 
-apply_once_at_company: true
+apply_once_at_company: false
 
-distance: 100
+distance: 50
 
 company_blacklist:
-  - wayfair
-  - Crossover
+  - Google
+  - Uber
+  - OpenAI
+  - Apple
+  - Amazon
+  - Meta
+  - Netflix
+  - Microsoft
+  - DoorDash
+  - Lyft
+  - NVIDIA
+  - Tesla
+  - X
+  - Deepmind
+  - Anthropic
+  - xAI
+  - Groq
+  - Taalas
+  - Cloudflare
+  - Asana
+  - Notion
+  - Figma
+  - Canva
+  - Intel
+  - AMD
+  - Qualcomm
+  - Unity
+  - Blizzard
+  - Riot
+  - Wealthsimple
+  - Stripe
+  - Square
+  - Coinbase
+  - Robinhood
+  - TD
+  - BMO
+  - RBC
+  - CIBC
+  - Scotiabank
+  - ByteDance
 
 title_blacklist:
-  - word1
-  - word2
 
 location_blacklist:
-  - Brazil
