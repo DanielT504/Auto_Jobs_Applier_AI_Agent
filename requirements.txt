@@ -28,3 +28,7 @@ webdriver-manager==4.0.2
 pytest
 pytest-mock
 pytest-cov
+<<<<<<< HEAD
+=======
+undetected-chromedriver==3.5.5
+>>>>>>> cc15a9d1f8869d5ead7f7c45482c7e730699a320
